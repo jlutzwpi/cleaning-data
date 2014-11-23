@@ -3,7 +3,8 @@ README for Cleaning Data Course Project
 
 Files included in this project:
 - run_analysis.R - the code to run
-- README.md - the instructions on how to run the code and the associated **Code Book**
+- README.md - the instructions on how to run the code
+- Codebook.md - the associated **Code Book** to understand the column names of the output file
 
 run_analysis.R
 --------------
