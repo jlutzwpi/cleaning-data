@@ -14,7 +14,7 @@ To run this file, ensure you have the dplyr and reshape2 libraries installed:
 
 Once you install those libraries, the code should run without issue.  The libraries are called within the code, so you don't need to call them before you run.
 
-**In addition, the code assumes that the input files are in the default folder created by extracted zip file (UCI HAR Dataset).  Ensure that the input files are in that folder.  The UCI HAR Dataset should be at the same level as the run_analysis.R folder.**
+**In addition, the code assumes that the input files are in the default folder created by the extracted zip file (UCI HAR Dataset).  Ensure that the input files are in that folder.  The UCI HAR Dataset should be at the same level as the run_analysis.R folder.**
 
 To execute the code, type:
 `source("run_analysis.R")`
